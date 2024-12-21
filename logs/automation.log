@@ -1,0 +1,182 @@
+14:50:54.146 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\RestAssured\PetStoreAutomation\testng.xml
+
+14:50:55.480 [main] INFO  api.test.UserTest - -------Creating User-------------
+14:51:07.373 [main] INFO  api.test.UserTest - -------Created User-------------
+14:51:07.626 [main] INFO  api.test.UserTest - -------getting User-------------
+14:51:10.357 [main] INFO  api.test.UserTest - ------- User details-------------
+14:51:10.399 [main] INFO  api.test.UserTest - -------updating User-------------
+14:52:03.499 [main] INFO  api.test.UserTest - -------updated User-------------
+14:52:03.517 [main] INFO  api.test.UserTest - -------deleting User-------------
+14:52:06.239 [main] INFO  api.test.UserTest - ------- User deleted-------------
+16:18:07.962 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\RestAssured\PetStoreAutomation\testng2.xml
+
+16:18:10.096 [main] INFO  api.test.UserTest2 - -------Creating User-------------
+16:18:21.635 [main] INFO  api.test.UserTest2 - -------Created User-------------
+16:18:21.697 [main] INFO  api.test.UserTest2 - -------getting User-------------
+16:18:23.122 [main] INFO  api.test.UserTest2 - ------- User details-------------
+16:18:23.162 [main] INFO  api.test.UserTest2 - -------updating User-------------
+16:18:25.795 [main] INFO  api.test.UserTest2 - -------updated User-------------
+16:18:25.836 [main] INFO  api.test.UserTest2 - -------deleting User-------------
+16:18:27.051 [main] INFO  api.test.UserTest2 - ------- User deleted-------------
+16:26:14.136 [main] INFO  api.test.UserTest - -------Creating User-------------
+16:26:25.292 [main] INFO  api.test.UserTest - -------Created User-------------
+16:26:25.311 [main] INFO  api.test.UserTest - -------getting User-------------
+16:26:26.932 [main] INFO  api.test.UserTest - ------- User details-------------
+16:26:26.937 [main] INFO  api.test.UserTest - -------updating User-------------
+16:26:29.466 [main] INFO  api.test.UserTest - -------updated User-------------
+16:26:29.474 [main] INFO  api.test.UserTest - -------deleting User-------------
+16:26:30.689 [main] INFO  api.test.UserTest - ------- User deleted-------------
+16:32:51.007 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:32:51.065 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+16:32:51.069 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:32:51.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:32:51.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:32:51.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:32:51.073 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:32:51.074 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:32:51.100 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 22 ms.
+16:32:51.139 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 38 ms.
+16:32:51.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:32:51.142 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:32:51.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:32:51.144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:32:51.145 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:32:51.146 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:32:51.151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:32:51.168 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:32:51.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:32:51.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:32:51.178 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:32:51.179 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:32:51.179 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:32:51.179 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:32:51.182 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:32:51.192 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+16:32:51.196 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:32:51.198 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:32:51.198 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:32:51.198 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:32:51.219 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kanag\AppData\Local\Temp\testng-eclipse--743794332\testng-customsuite.xml
+
+16:32:51.294 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 16 ms.
+16:32:52.568 [main] INFO  api.test.UserTest2 - -------Creating User-------------
+16:33:01.423 [main] INFO  api.test.UserTest2 - -------Created User-------------
+16:33:01.466 [main] INFO  api.test.UserTest2 - -------getting User-------------
+16:33:02.895 [main] INFO  api.test.UserTest2 - ------- User details-------------
+16:33:03.663 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6723e6b3: 585 ms
+16:33:03.664 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3883b5e9: 1 ms
+16:33:03.689 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@72288480: 23 ms
+16:33:03.705 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6c56fff: 16 ms
+16:33:03.720 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@72d16d6: 14 ms
+16:33:03.721 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7b0525a8: 0 ms
+16:33:37.236 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+16:33:37.259 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+16:33:37.265 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:37.265 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:37.273 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:37.273 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:37.275 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:37.276 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:37.318 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 35 ms.
+16:33:37.349 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 30 ms.
+16:33:37.352 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:37.353 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:37.355 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:37.355 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:37.357 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:37.357 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:37.365 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:37.366 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:37.368 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:37.368 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:37.377 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:37.377 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:37.377 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:37.378 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:37.381 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+16:33:37.393 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+16:33:37.396 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:37.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:37.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:33:37.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:33:37.423 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kanag\AppData\Local\Temp\testng-eclipse-633065450\testng-customsuite.xml
+
+16:33:37.499 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 16 ms.
+16:33:38.683 [main] INFO  api.test.UserTest2 - -------Creating User-------------
+16:33:49.539 [main] INFO  api.test.UserTest2 - -------Created User-------------
+16:33:50.127 [main] INFO  api.test.UserTest2 - -------getting User-------------
+16:33:51.474 [main] INFO  api.test.UserTest2 - ------- User details-------------
+16:33:51.524 [main] INFO  api.test.UserTest2 - -------updating User-------------
+16:33:54.058 [main] INFO  api.test.UserTest2 - -------updated User-------------
+16:33:54.662 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@12c78f36: 452 ms
+16:33:54.667 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7bdb4d69: 1 ms
+16:33:54.748 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@53c40ed6: 43 ms
+16:33:54.772 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7d82ca56: 24 ms
+16:33:54.855 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3df6494f: 82 ms
+16:33:54.856 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1b5f960a: 0 ms
+16:34:54.907 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+16:34:54.920 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+16:34:54.924 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:54.924 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:54.926 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:54.926 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:54.928 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:54.929 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:34:54.948 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
+16:34:54.976 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 27 ms.
+16:34:54.978 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:54.979 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:54.980 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:54.981 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:54.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:54.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:54.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:54.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:54.991 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:54.992 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:54.999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:55.000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:55.000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:55.000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:55.003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:34:55.013 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+16:34:55.017 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:55.017 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:55.017 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:55.017 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:55.044 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kanag\AppData\Local\Temp\testng-eclipse--1768244380\testng-customsuite.xml
+
+16:34:55.135 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+16:34:56.316 [main] INFO  api.test.UserTest2 - -------Creating User-------------
+16:35:04.830 [main] INFO  api.test.UserTest2 - -------Created User-------------
+16:35:05.292 [main] INFO  api.test.UserTest2 - -------getting User-------------
+16:35:06.647 [main] INFO  api.test.UserTest2 - ------- User details-------------
+16:35:06.678 [main] INFO  api.test.UserTest2 - -------updating User-------------
+16:35:09.386 [main] INFO  api.test.UserTest2 - -------updated User-------------
+16:35:10.087 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@129c760d: 564 ms
+16:35:10.089 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@361fa478: 2 ms
+16:35:10.161 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@22ee7fdc: 71 ms
+16:35:10.191 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5a58db42: 27 ms
+16:35:10.247 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@53ddabc6: 55 ms
+16:35:10.247 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@39ac8c0c: 0 ms
+16:45:25.254 [main] INFO  api.test.UserTest - -------Creating User-------------
+16:45:35.500 [main] INFO  api.test.UserTest - -------Created User-------------
+16:45:35.522 [main] INFO  api.test.UserTest - -------getting User-------------
+16:45:37.038 [main] INFO  api.test.UserTest - ------- User details-------------
+16:45:37.050 [main] INFO  api.test.UserTest - -------updating User-------------
+16:45:39.588 [main] INFO  api.test.UserTest - -------updated User-------------
+16:45:39.593 [main] INFO  api.test.UserTest - -------deleting User-------------
+16:45:40.822 [main] INFO  api.test.UserTest - ------- User deleted-------------
+16:47:12.983 [main] INFO  api.test.UserTest - -------Creating User-------------
+16:47:21.122 [main] INFO  api.test.UserTest - -------Created User-------------
+16:47:21.171 [main] INFO  api.test.UserTest - -------getting User-------------
+16:47:22.769 [main] INFO  api.test.UserTest - ------- User details-------------
+16:47:22.776 [main] INFO  api.test.UserTest - -------updating User-------------
+16:47:25.315 [main] INFO  api.test.UserTest - -------updated User-------------
+16:47:25.324 [main] INFO  api.test.UserTest - -------deleting User-------------
+16:47:26.632 [main] INFO  api.test.UserTest - ------- User deleted-------------
